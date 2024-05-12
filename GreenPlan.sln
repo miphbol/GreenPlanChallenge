@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle.Repository", "Vehic
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleType.Repository", "VehicleTypeRepository\VehicleType.Repository.csproj", "{01FD648E-8300-4560-A0CC-7C6D6FDA3ADF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicle_Console", "VehicleConsole\Vehicle_Console.csproj", "{4AC2CA5A-B4F8-4DE7-BEEF-548CDFFBC71A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{01FD648E-8300-4560-A0CC-7C6D6FDA3ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{01FD648E-8300-4560-A0CC-7C6D6FDA3ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{01FD648E-8300-4560-A0CC-7C6D6FDA3ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AC2CA5A-B4F8-4DE7-BEEF-548CDFFBC71A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AC2CA5A-B4F8-4DE7-BEEF-548CDFFBC71A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AC2CA5A-B4F8-4DE7-BEEF-548CDFFBC71A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AC2CA5A-B4F8-4DE7-BEEF-548CDFFBC71A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
